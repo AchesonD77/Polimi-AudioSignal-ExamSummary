@@ -3,8 +3,8 @@ some guides and summaries for polimi's telecomunication's audio signal
 This repository provides a comprehensive guide to the **Audio Signal** exam, including **calculations(1 question), theory(2 questions), and MATLAB programming(1 question)**.
 
 # My voice
-1.	My exam date was the 14th of January in 2025, I have been preparing for this exam from the 14th of November to the 26th of December. **(43days)**
-2.	I summarized the exam from the 4th of January to the 12th of January in 2025. **(9days)**
+1.	My exam date was the 14th of January in 2025, I have been preparing for this exam from the 14th of November to the 26th of December. **(43days, Half of each day)**
+2.	I summarized the exam from the 4th of January to the 12th of January in 2025. **(9days, Half of each day)**
 3.	I wrote this on the 3rd of February 2025.
 
 
